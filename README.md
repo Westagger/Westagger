@@ -15,9 +15,6 @@
        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
     </a>
   </div>
-
-   <hr/>
-
   <h2 align="center">I mostly work with</h2>
   <div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,lua,python" />
