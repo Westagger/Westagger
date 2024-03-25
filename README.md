@@ -3,7 +3,7 @@
   <div align="center">
 
    **I'm a bit obsessed with programming**
-   
+
    (Looking foward into hacking NASA)
 
    </div>
@@ -22,7 +22,6 @@
   <br/>
   <div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,lua,python" />
-      <img src="https://skillicons.dev/icons?i=github,vercel,sublime,vscode" /><br>
+      <img src="https://skillicons.dev/icons?i=github,vercel,sublime" />
   </div>
-  <br/>
   </div>
