@@ -3,7 +3,6 @@
 <div align="center">
 
  **I'm a bit obsessed with programming**
-
  (Looking foward into hacking NASA)
 
  </div>
