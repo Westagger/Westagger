@@ -1,12 +1,12 @@
 <h3 align="center">Westagger 🇨🇦</h3>
 <br/>
 <div align="center">
- I'm a bit obsessed with programming**
- (Looking foward into hacking NASA)**
+
+ **I'm a bit obsessed with programming**
+
+ (Looking foward into hacking NASA)
+
  </div>
-
- <hr/>
-
 <div align="center"> 
   <a href="https://steamcommunity.com/id/Westagger/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
