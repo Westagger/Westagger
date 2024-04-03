@@ -6,8 +6,6 @@
   
    **I'm a bit obsessed with programming**
 
-   (Looking foward into hacking NASA)
-
    </div>
   <div align="center"> 
     <a href="https://steamcommunity.com/id/Westagger/">
