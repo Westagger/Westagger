@@ -3,8 +3,6 @@
   <div align="center">
 
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Westagger.Westagger" />
-  
-   **I'm a bit obsessed with coding**
 
    </div>
   <div align="center"> 
