@@ -4,8 +4,6 @@
 
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Westagger.Westagger" />
 
-   **Real**
-
    </div>
   <div align="center"> 
   </div>
