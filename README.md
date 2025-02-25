@@ -9,6 +9,7 @@
   </div>
   <h2 align="center">I mostly work with</h2>
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,ruby&perline=3" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,ruby" />
+      <img src="https://skillicons.dev/icons?i=nextjs,redux,bootstrap,mongodb" />
   </div>
   </div>
