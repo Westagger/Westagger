@@ -9,6 +9,6 @@
   </div>
   <h2 align="center">I mostly work with</h2>
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,nextjs,nodejs,redux,bootstrap,mongodb&perline=5" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,vue,threejs,redux,bootstrap,mongodb&perline=5" />
   </div>
   </div>
