@@ -5,7 +5,7 @@
   <p><b>Languages</b></p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,lua" alt="Programming Languages"/>
   <p><b>Frameworks & Libraries</b></p>
-  <img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,bootstrap" alt="Frameworks and Libraries"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,vite,astro,tailwind" alt="Frameworks and Libraries"/>
   <p><b>Database & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=mongodb,github,vercel,sublime" alt="Databases and Tools"/>
 </div>
