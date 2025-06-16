@@ -7,7 +7,7 @@
   <p><b>Frameworks & Libraries</b></p>
   <img src="https://skillicons.dev/icons?i=react,vue,vite,astro,tailwind,scss" alt="Frameworks and Libraries"/>
   <p><b>Database & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,github,vercel,sublime" alt="Databases and Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,vercel,netlify,sublime,vscode" alt="Databases and Tools"/>
 </div>
 
 <h3 align="left" style="text-decoration: underline;">GitHub Stats</h3>
