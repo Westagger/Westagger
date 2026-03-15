@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hello there, i'm Lucas, I usually have fun with</h3>
+<h3 align="center">i'm Lucas, I usually mess with</h3>
 
 ###
 
