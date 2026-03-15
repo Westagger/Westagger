@@ -44,6 +44,8 @@
   <img src="https://skillicons.dev/icons?i=zig" height="25" alt="zig logo"  />
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=lua" height="25" alt="lua logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
 </div>
 
 ###
