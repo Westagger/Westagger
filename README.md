@@ -1,10 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<h3 align="center">i'm Lucas, I usually mess with</h3>
+<h3 align="center">I usually mess with</h3>
 
 ###
 
@@ -47,5 +41,3 @@
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
 </div>
-
-###
