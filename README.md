@@ -31,8 +31,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
-  <img width="28" />
   <img src="https://skillicons.dev/icons?i=scala" height="25" alt="scala logo"  />
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=zig" height="25" alt="zig logo"  />
